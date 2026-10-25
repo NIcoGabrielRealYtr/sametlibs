@@ -614,7 +614,7 @@ local Library do
 
         Library.Font = CustomFont:New("OutfitMedium", 400, "Regular", {
             Id = "OutfitMedium",
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/Outfit-Medium.ttf"
+            Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/Outfit-Medium.ttf"
         })
     end
 
