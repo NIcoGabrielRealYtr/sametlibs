@@ -263,7 +263,7 @@ do
 
         Library.Font = CustomFont:New("SmallestPixel7", 400, "Regular", {
             Id = "SmallestPixel7",
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/smallest_pixel-7.ttf"
+            Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/smallest_pixel-7.ttf"
         })
     end
 
