@@ -2125,7 +2125,7 @@ local Library do
         end
 
         CustomFont:New("Inter", 200, "Regular", {
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/InterSemibold.ttf"
+            Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/InterSemibold.ttf"
         })
 
         Library.Font = CustomFont:Get("Inter")
