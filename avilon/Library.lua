@@ -199,7 +199,7 @@ local Library = {
 
         Library.Font = CustomFont:New("InterSemiBold", 400, "Regular", {
             Id = "InterSemiBold",
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/InterSemibold.ttf"
+            Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/InterSemibold.ttf"
         })
     end
 
