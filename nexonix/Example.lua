@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/nexonix/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NIcoGabrielRealYtr/sametlibs/refs/heads/main/nexonix/Library.lua"))()
 
 local KeybindList = Library:KeybindList({Name = "Keybind List"})
 
