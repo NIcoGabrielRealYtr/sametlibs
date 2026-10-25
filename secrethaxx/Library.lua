@@ -204,12 +204,12 @@ do --// UI Source
 
             Library.Font = CustomFont:New("WindowsXPTAHOMA", 400, "Regular", {
                 Id = "WindowsXPTAHOMA",
-                Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/windows-xp-tahoma.ttf"
+                Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/windows-xp-tahoma.ttf"
             })
 
             Library.BoldFont = CustomFont:New("Tahoma8PTBOLD", 400, "Regular", {
                 Id = "Tahoma8PTBOLD",
-                Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/TAHOMA-8PT-BOLD-WINDOWS-XP.TTF"
+                Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/TAHOMA-8PT-BOLD-WINDOWS-XP.TTF"
             })
         end
 
