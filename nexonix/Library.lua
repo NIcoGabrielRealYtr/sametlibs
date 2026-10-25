@@ -250,7 +250,7 @@ local Library = {
 
         Library.Font = CustomFont:New("figtree-Semibold", 400, "Regular", {
             Id = "Figtree-Semibold",
-            Url = "https://github.com/sametexe001/luas/raw/refs/heads/main/fonts/Figtree-SemiBold.ttf"
+            Url = "https://github.com/NIcoGabrielRealYtr/luas/raw/refs/heads/main/fonts/Figtree-SemiBold.ttf"
         })
     end
 
