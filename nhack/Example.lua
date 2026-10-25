@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/nhack/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NIcoGabrielRealYtr/sametlibs/refs/heads/main/nhack/Library.lua"))()
 
 --// Example, do whatever you want with this
 _G.Library = Library
